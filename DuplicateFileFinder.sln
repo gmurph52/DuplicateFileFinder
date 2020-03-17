@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateFileFinder", "DuplicateFileFinder.csproj", "{BA8AB7B2-C7FD-438C-9997-FBDF1BF343DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA8AB7B2-C7FD-438C-9997-FBDF1BF343DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8AB7B2-C7FD-438C-9997-FBDF1BF343DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8AB7B2-C7FD-438C-9997-FBDF1BF343DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8AB7B2-C7FD-438C-9997-FBDF1BF343DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04309E0F-5AB2-416F-9C9D-C3715D80AFCB}
+	EndGlobalSection
+EndGlobal
